@@ -2,9 +2,15 @@
 _*
 !*__.py
 
-
+# dev files and folders
 venv
 .vscode
 __pycache__
 .history
 dataset
+ckpts
+
+# temp, remove after starting the project
+checkpoints
+data
+results
