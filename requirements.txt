@@ -6,3 +6,4 @@ opencv-python >= 4.5.1.48
 lpips >= 0.1.4
 matplotlib >= 3.3.4
 pandas >= 1.2.0
+tensorboardX >= 2.6
